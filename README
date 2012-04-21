@@ -1,3 +1,4 @@
-This project shows what happens when multiple threads get blocked on a synchronized object and
-which ones get released first. ThreadTest.main() can be passed an integer value on the command
-line for the number of running threads you want.
+This project shows what happens when multiple threads get
+blocked on a synchronized object and which ones get released
+first. ThreadTest.main() can be passed an integer value on
+the command line for the number of running threads you want.
